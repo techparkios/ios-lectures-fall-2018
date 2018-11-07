@@ -1,0 +1,15 @@
+PODS:
+  - Gloss (2.0.0)
+  - Kingfisher (4.6.2)
+
+DEPENDENCIES:
+  - Gloss (~> 2.0)
+  - Kingfisher
+
+SPEC CHECKSUMS:
+  Gloss: b67617f327406adfd47adf20172d00680a3a31bd
+  Kingfisher: 55b9c395bf8d3949676ad3861111923990ab68cf
+
+PODFILE CHECKSUM: 131e2e0fd451d3effeefd4b612c6b7cca6b9d550
+
+COCOAPODS: 1.4.0
